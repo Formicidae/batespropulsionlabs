@@ -2,7 +2,8 @@ import React from "react";
 
 type Link = {
   label: string,
-  href: string
+  href: string,
+  local?: boolean
 }
 
 type LinkedTextProps = {

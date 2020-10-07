@@ -11,6 +11,8 @@ import KNDX1 from "./routes/KNDX1";
 import VerticalIntegrator from "./routes/VerticalIntegrator";
 import NitrousOxide from "./routes/NitrousOxide";
 import About from "./routes/About";
+import PneumaticValves from "./routes/PneumaticValves";
+import SolenoidValve from "./routes/SolenoidValve";
 
 import Sidebar from "./Sidebar";
 import Breadcrumbs from "./Breadcrumbs";
@@ -127,6 +129,14 @@ const App = () => {
           <Route path="/engines/liquid-propellant/nitrous-oxide">
             <ScrollTo />
             <NitrousOxide />
+          </Route>
+          <Route path="/valves/pneumatic-valves">
+            <ScrollTo />
+            <PneumaticValves />
+          </Route>
+          <Route path="/valves/solenoid-valve">
+            <ScrollTo />
+            <SolenoidValve />
           </Route>
           <Route path="/about">
             <ScrollTo />

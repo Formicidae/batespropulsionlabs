@@ -28,12 +28,8 @@
                 "link": "/engines/liquid-propellant/poc-1#daq"
               },
               {
-                "name": "Pneumatic Valves",
-                "link": "/engines/liquid-propellant/poc-1#pneumatic-valves"
-              },
-              {
-                "name": "Throttle Valves",
-                "link": "/engines/liquid-propellant/poc-1#throttle-valves"
+                "name": "Alternate Combustion Chambers",
+                "link": "/engines/liquid-propellant/poc-1#alternate-combustion-chambers"
               }
             ]
           },
@@ -86,6 +82,21 @@
             "link": "/vehicles/vertical-integrator#avionics"
           }
         ]
+      }
+    ]
+  },
+  {
+    "name": "Valves",
+    "link": "/valves",
+    "separatePages": true,
+    "children": [
+      {
+        "name": "Pneumatic Valves",
+        "link": "/valves/pneumatic-valves"
+      },
+      {
+        "name": "Solenoid Valve",
+        "link": "/valves/solenoid-valve"
       }
     ]
   },
