@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.92d0b22e.chunk.css",
-    "main.js": "/static/js/main.2aee6584.chunk.js",
-    "main.js.map": "/static/js/main.2aee6584.chunk.js.map",
+    "main.js": "/static/js/main.157fdfe6.chunk.js",
+    "main.js.map": "/static/js/main.157fdfe6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.689f56d5.js",
     "runtime-main.js.map": "/static/js/runtime-main.689f56d5.js.map",
     "static/css/2.40a775a0.chunk.css": "/static/css/2.40a775a0.chunk.css",
-    "static/js/2.ff7dbf82.chunk.js": "/static/js/2.ff7dbf82.chunk.js",
-    "static/js/2.ff7dbf82.chunk.js.map": "/static/js/2.ff7dbf82.chunk.js.map",
+    "static/js/2.f2c7e9c6.chunk.js": "/static/js/2.f2c7e9c6.chunk.js",
+    "static/js/2.f2c7e9c6.chunk.js.map": "/static/js/2.f2c7e9c6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.298566747ced543e014b86236c0ee415.js": "/precache-manifest.298566747ced543e014b86236c0ee415.js",
+    "precache-manifest.b2728265d9ff4c42792635e7ab261a77.js": "/precache-manifest.b2728265d9ff4c42792635e7ab261a77.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.40a775a0.chunk.css.map": "/static/css/2.40a775a0.chunk.css.map",
     "static/css/main.92d0b22e.chunk.css.map": "/static/css/main.92d0b22e.chunk.css.map",
-    "static/js/2.ff7dbf82.chunk.js.LICENSE.txt": "/static/js/2.ff7dbf82.chunk.js.LICENSE.txt",
+    "static/js/2.f2c7e9c6.chunk.js.LICENSE.txt": "/static/js/2.f2c7e9c6.chunk.js.LICENSE.txt",
     "static/media/1.png": "/static/media/1.a06f33dd.png",
     "static/media/1.jpg": "/static/media/1.9da65a37.jpg",
     "static/media/2.jpg": "/static/media/2.9833963f.jpg",
@@ -125,13 +125,14 @@
     "static/media/shop4.jpg": "/static/media/shop4.623f8dfb.jpg",
     "static/media/shop5.jpg": "/static/media/shop5.d9046fb7.jpg",
     "static/media/shop6.jpg": "/static/media/shop6.aa60db3a.jpg",
-    "static/media/solid-rocket.png": "/static/media/solid-rocket.b3175705.png"
+    "static/media/solid-rocket.png": "/static/media/solid-rocket.b3175705.png",
+    "static/media/sponsors.png": "/static/media/sponsors.62dec6a8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.689f56d5.js",
     "static/css/2.40a775a0.chunk.css",
-    "static/js/2.ff7dbf82.chunk.js",
+    "static/js/2.f2c7e9c6.chunk.js",
     "static/css/main.92d0b22e.chunk.css",
-    "static/js/main.2aee6584.chunk.js"
+    "static/js/main.157fdfe6.chunk.js"
   ]
 }
